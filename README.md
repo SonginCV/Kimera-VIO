@@ -1,3 +1,12 @@
+# Progress in my fork
+
+I have built Kimera-VIO with Unbuntu 18.04, Opencv 4.6.0, Boost 1.73.0.
+
+Some codes are modified.
+
+I will update the modifications soon.
+
+---
 <div align="center">
   <a href="http://mit.edu/sparklab/">
     <img align="left" src="docs/media/sparklab_logo.png" width="80" alt="sparklab">
